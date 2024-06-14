@@ -1,0 +1,32 @@
+name: Update Keys Every 30 Minutes
+
+on:
+  schedule:
+    #- cron: '*/10 * * * *'  # Runs every 2 hours
+    - cron: '*/1 * * * *'  # Runs every 2 hours
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install requests        
+        
+    - name: Update Keys
+      run: |
+        git config --global user.name "hoshi06"
+        git config --global user.email "ok@gmail.com"        
+        python keys.py  # Script to update keys
+        git add keys.json
+        git commit --amend -m "Update keys"
+        git push -f
