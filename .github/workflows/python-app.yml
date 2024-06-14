@@ -20,13 +20,14 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests        
+        pip install requests
+        python3 main.py
         
     - name: Update Keys
       run: |
         git config --global user.name "hoshi06"
         git config --global user.email "ok@gmail.com"        
         python keys.py  # Script to update keys
-        git add keys.json
+        git add pta_nhi.json
         git commit --amend -m "Update keys"
         git push -f
