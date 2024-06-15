@@ -324,7 +324,7 @@
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd"
   },
   "32": {
-    "clearkey": "c0a8a8ee944d5f5a9205a848d1ecf5f0:46055824aca980e6cc0f222561da77bb",
+    "clearkey": "cb8b4476ad025a4999190eff6294126a:3e8f627d0af6b68265d594ae78da438f",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_301/output/manifest.mpd"
   },
   "558": {
@@ -372,7 +372,7 @@
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_729/output/manifest.mpd"
   },
   "81": {
-    "clearkey": "497205e417105d4ca52ad398aeaec205:ba12cb16752c967ee7e5fa4d531c7f7c",
+    "clearkey": "c2e34d638a6451cd8a62d071d814adcd:f8bafe2df108410447955d7bf54ef6a9",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_256/output/manifest.mpd"
   },
   "150": {
@@ -380,7 +380,7 @@
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd"
   },
   "462": {
-    "clearkey": "63364c7965ec5107a86072c253c3d65e:bdc736c6de72e02b877bf0df602cb647",
+    "clearkey": "1eafc825a93951e6a38fcc2e52f8534b:8a0e6f858750b8aa19eb3429937ec384",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd"
   },
   "170": {
@@ -388,15 +388,15 @@
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_115/output/manifest.mpd"
   },
   "464": {
-    "clearkey": "8316f01841715e4a98d77612943439cd:33180a402bf1887134f3106a9ba92a3e",
+    "clearkey": "9924b4f281165fb9a7d988b80e5d80bf:8c0c5a5ae2bbf64fe6add17e22a76e13",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd"
   },
   "171": {
-    "clearkey": "da09c36830985f3c8f3f61e4586922b4:3252cc73bc3ab5bf4154d9916699a095",
+    "clearkey": "49f1d6e0e0e5571c87aee7e7aa58daa8:d27e0e284569c933fbec4a589451ce62",
     "url": "https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_116/output/manifest.mpd"
   },
   "35": {
-    "clearkey": "b534642000305426965ace104d23947d:6e6fa010146da6ec86cf5731ae3277e8",
+    "clearkey": "e6dbbd6e32cb5fa6b4c1e3814d32d3ad:a12c0181d447e746a8fc539df8c0f486",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_254/output/manifest.mpd"
   },
   "1033": {
@@ -832,7 +832,7 @@
     "url": "https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_120/output/manifest.mpd"
   },
   "460": {
-    "clearkey": "e6734cca8e9d5334a5c90487c3fac6d1:1d0f064f90deb7a1649dec3574f716ed",
+    "clearkey": "1d3308a6f4ef577487e6924518befa7a:583ed7d99054c6c3a407282ec5172aac",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd"
   },
   "158": {
@@ -1264,7 +1264,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/manifest.mpd"
   },
   "658": {
-    "clearkey": "f01a65220e3d5c66bdfcea471a7fa71d:b4f304c720a6493e1445b26b4a9f1a01",
+    "clearkey": "1c5f0e1f39f65cdf81ff8799fdf15d4d:70080d849231ba0ba95f03649fe1ceb9",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd"
   },
   "999": {
@@ -1344,7 +1344,7 @@
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd"
   },
   "34": {
-    "clearkey": "f279c243c8cb5e87ad1f6adf74575e04:2dca7cb11741b59b6bca8eaaa7910697",
+    "clearkey": "27912ab7d83d501abb34e909a131d8be:8de09eba8cd47cd0ed0da98e03a8d0fc",
     "url": "https://bpprod4catchup.akamaized.net/bpk-tv/irdeto_com_Channel_285/output/manifest.mpd"
   },
   "995": {
@@ -1930,6 +1930,10 @@
   "824": {
     "clearkey": "41668866b72255ddac8d54bdd0d301d1:bbc6bb4eb5dfd84e4defabc27891b700",
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd"
+  },
+  "913": {
+    "clearkey": "d966fe54827d5950ad52ca809e449922:a88c961ac71133a7e531aa13b06a002e",
+    "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd"
   },
   "1077": {
     "clearkey": "ea9e857ddb3d597d84b25ca92aa63399:25987be8e5b107e09ce7655566ab1653",
