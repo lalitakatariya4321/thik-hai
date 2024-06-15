@@ -30,7 +30,7 @@ for i, channel in enumerate(customized_channels, 1):
                 'clearkey': clearkey['hex'],
                 'url': channel['manifest_url']
             }
-            output_json[str(i)] = key_info
+            output_json[f'{channel["id"]}'] = key_info
 
 # Save the output to a JSON file
 with open('pta_nhi.json', 'w') as outfile:
