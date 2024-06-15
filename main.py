@@ -32,10 +32,10 @@ for i, channel in enumerate(customized_channels, 1):
             }
             output_json[f'{channel["id"]}'] = key_info
 
+
 # Save the output to a JSON file
 with open('pta_nhi.json', 'w') as outfile:
     json.dump(output_json, outfile, indent=2)
 
 # Print the result
 print("File Saved Successfully")
-
