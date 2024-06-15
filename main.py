@@ -25,12 +25,12 @@ customized_channels = [replace_urls(channel) for channel in channels]
 output_json = {}
 for i, channel in enumerate(customized_channels, 1):
     if 'clearkeys' in channel and channel['clearkeys']:
-        for clearkey in channel['clearkeys']:
-            key_info = {
-                'clearkey': clearkey['hex'],
-                'url': channel['manifest_url']
-            }
-            output_json[f'{channel["id"]}'] = key_info
+        clearkey = channel['clearkeys'][0]  # Use only the first clearkey
+        key_info = {
+            'clearkey': clearkey['hex'],
+            'url': channel['manifest_url']
+        }
+        output_json[f'{channel["id"]}'] = key_info
 
 
 # Save the output to a JSON file
