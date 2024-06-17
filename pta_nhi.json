@@ -40,7 +40,7 @@
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd"
   },
   "48": {
-    "clearkey": "aa70aa976acd54c6a0be95ec328ad260:b1971df8a1c27f30825155f056489469",
+    "clearkey": "1e65813a60e25b709170604d109152e9:a798161d828a6b7afa0d370bb8848449",
     "url": "https://bpprod7.akamaized-staging.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd"
   },
   "559": {
@@ -204,7 +204,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/manifest.mpd"
   },
   "80": {
-    "clearkey": "8c07311fe25558c5b4d3c4db020f01c0:a5cea4647d71b11ba47a38a298c6546a",
+    "clearkey": "8d198d1d9a3156719afc9ca8d8848e8f:b12cab78ce5101f769504c72608bd6f2",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd"
   },
   "741": {
@@ -268,7 +268,7 @@
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/manifest.mpd"
   },
   "56": {
-    "clearkey": "e25699e9419b527e99aa9fa2d1a2b11d:6da13e6038ad60d064e4e82f654a6565",
+    "clearkey": "82a73d40657357a29cd3278af80095c3:75f8b49b06eeeb434ce0da1a0f848041",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd"
   },
   "7": {
@@ -276,7 +276,7 @@
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd"
   },
   "120": {
-    "clearkey": "770692d11f1c546eb53773071bae26be:570997858cfa192c287c134c4f9a17dc",
+    "clearkey": "713eb108dcc15e70abb9201919131e2a:4859c2a436a9dac98f1295efba777281",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd"
   },
   "276": {
@@ -2022,6 +2022,10 @@
   "1097": {
     "clearkey": "2f703cf6076e5b5387ed180d089814f1:35f290e22a278e6fd5bd6adb245adfbf",
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/manifest.mpd"
+  },
+  "1351": {
+    "clearkey": "78231f5fb2ab4c0a867886d221c75447:4c6afe10935f23ae5c1b83066ef68533",
+    "url": "https://bpprod45webcatchup.akamaized.net/out/i/1587.mpd"
   },
   "115": {
     "clearkey": "3274692b83ee593583147affa729646a:229e8f3e7081e427f32ce8e965338f8b",
