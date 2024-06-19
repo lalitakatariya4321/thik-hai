@@ -40,7 +40,7 @@
     "url": "https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_125/output/manifest.mpd"
   },
   "48": {
-    "clearkey": "afe4df59e15b559c9ef5bff3f6b7615c:bcb4c5d57583c2d0a7ea05adc6e3047c",
+    "clearkey": "f8729bbbb6f251ceaabdd8f3e5475fa3:518a06b6aef58dfb58d0d6a290ef3a8e",
     "url": "https://bpprod7.akamaized-staging.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd"
   },
   "559": {
@@ -204,7 +204,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/manifest.mpd"
   },
   "80": {
-    "clearkey": "78b3c7b568f550dcad8602c3c0507b9a:bef4dd5a33eaa4a080122ddbbcb7199e",
+    "clearkey": "308f56d1e7d15b98ba6c82db249225f6:3fb86f5e87e31972f4db322101bb6f05",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_305/output/manifest.mpd"
   },
   "741": {
@@ -268,7 +268,7 @@
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/manifest.mpd"
   },
   "56": {
-    "clearkey": "bd537d0300bb527aa05b9cb8e67c5cab:d83d7d811e9ff1710dfffb18a97862f9",
+    "clearkey": "d0265ba31d985752926c48da31b9812d:c11a4968c406c0a36a9b5e5d4d32ec9a",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_386/output/manifest.mpd"
   },
   "7": {
@@ -276,7 +276,7 @@
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd"
   },
   "120": {
-    "clearkey": "beb84d3904b556b8ae02a4a41cbf460d:b6206de9263254cd3d17d5ca181d851e",
+    "clearkey": "50df445b681d5f86b947e298438da65a:340a44b64e70357d380f9a7fe48c59df",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_199/output/manifest.mpd"
   },
   "276": {
@@ -836,7 +836,7 @@
     "url": "https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_722/output/manifest.mpd"
   },
   "158": {
-    "clearkey": "15509ed67be351999340160f9b09dc6a:dff8fb5605a3e31f558d3b87cba3bb91",
+    "clearkey": "755d97f06ad456309f9a1b3a59b759a1:6bd38e1402d181eeef7ea3a5d399db24",
     "url": "https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd"
   },
   "126": {
@@ -2010,10 +2010,6 @@
   "507": {
     "clearkey": "64215e5b5bcd5e7084fb43b7c9dbed89:3ba3b9f36960e0f496f8287968da22ab",
     "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd"
-  },
-  "654": {
-    "clearkey": "8ee7776de98250048754ba07eeb88f52:032309f389851d50aa858d6941eac655",
-    "url": "https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd"
   },
   "974": {
     "clearkey": "306ba5c21b90547c9fe08fd5ab6d9164:3cb9410031fca1a99cf425ff0517a9ce",
