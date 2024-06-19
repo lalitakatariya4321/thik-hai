@@ -2,7 +2,7 @@ name: Run main.py and commit changes
 
 on:
   schedule:
-    - cron: '* */1 * * *'  # Runs every 5 minutes
+    - cron: '0 * * * *'  # Runs every 1 Hours
 
 jobs:
   run-and-commit:
