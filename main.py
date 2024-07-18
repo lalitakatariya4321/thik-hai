@@ -9,11 +9,12 @@ input_json = response.json()
 # Function to perform replacements
 def replace_urls(channel):
     if 'manifest_url' in channel:
-        # Replace delta and bpweb with bpprodchannel['manifest_url'] = channel['manifest_url'].replace('delta', 'bpprod').replace('bpweb', 'bpprod').replace('tatasky.akamaized.net', 'catchup.akamaized.net')
-    
+        # Replace delta and bpweb with bpprod and tatasky.akamaized.net with catchup.akamaized.net
         url = channel['manifest_url'].replace('delta', 'bpprod').replace('bpweb', 'bpprod').replace('tatasky.akamaized.net', 'catchup.akamaized.net')
         # Replace <number>.akamaized.net with catchup.akamaized.net preserving the number
         url = re.sub(r'(\d+)\.akamaized\.net', r'\1catchup.akamaized.net', url)
+        # Replace the ending with xxx.mpd
+        url = re.sub(r'[a-zA-Z0-9]+\.mpd$', 'xxx.mpd', url)
         channel['manifest_url'] = url
     return channel
 
@@ -31,7 +32,6 @@ for i, channel in enumerate(customized_channels, 1):
             'url': channel['manifest_url']
         }
         output_json[f'{channel["id"]}'] = key_info
-
 
 # Save the output to a JSON file
 with open('pta_nhi.json', 'w') as outfile:
